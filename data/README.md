@@ -1,0 +1,1 @@
+This data file was downloaded from https://oui.doleta.gov/unemploy/claims.asp on September 30, 2020.
